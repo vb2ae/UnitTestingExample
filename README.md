@@ -1,3 +1,5 @@
-# FSharpAndroidList
+# Simple unit testing example
 
-A simple F# to display a list of countries in a Xamarin Android application
+A simple unit testing example from this question on microsoft Q&A site
+
+https://docs.microsoft.com/en-us/answers/questions/286846/ms-test-in-c-net.html?childToView=287165#comment-287165
